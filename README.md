@@ -1,5 +1,7 @@
 # compact-prep
 
+**한국어** | [English](README.en.md)
+
 Claude Code 세션이 압축(`/compact`)되기 전에 이번 대화의 결정과 스펙을 파일로 옮겨두고, 압축 후에 그 파일로 맥락을 되살리는 스킬입니다.
 
 > A Claude Code skill that writes your session's decisions, exact specs, numbering, rejected alternatives, design language, and working preferences into durable project files before `/compact`, then restores context from them afterwards. Korean-language skill body.
